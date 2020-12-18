@@ -1,0 +1,24 @@
+{
+  "name": "colordebug",
+  "version": "1.0.0",
+  "description": "Color parser for console logs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergioGracia/colorDebug.git"
+  },
+  "keywords": [
+    "colors",
+    "log",
+    "console"
+  ],
+  "author": "Sergio Gracia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SergioGracia/colorDebug/issues"
+  },
+  "homepage": "https://github.com/SergioGracia/colorDebug#readme"
+}
